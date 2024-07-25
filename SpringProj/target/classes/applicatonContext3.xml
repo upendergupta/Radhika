@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+        xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+                http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean class="org.example.Ladka" name="ladka">
+        <property name="m1" value="101" />
+    </bean>
+
+    <bean class="org.example.Ladki" name="ladki" autowire="constructor">
+
+
+    </bean>
+
+    <bean class="org.example.Teacher" name="teacher3">
+        <property name="id" value="103" />
+        <property name="name" value="Upender" />
+        <property name="address" value="Jaipur" />
+    </bean>
+
+</beans>
