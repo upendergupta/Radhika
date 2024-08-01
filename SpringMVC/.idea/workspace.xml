@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,7 +53,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Upender Gupta/.SmartTomcat/SpringMVC/SpringMVC",
+    "last_opened_file_path": "D:/WorkSpace/SpringMVC/src/main/webapp",
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -60,7 +61,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\SpringMVC\src\main\webapp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\SpringMVC\src\main\webapp" />
+      <recent name="D:\WorkSpace\SpringMVC\src\main\webapp\WEB-INF" />
       <recent name="D:\WorkSpace\SpringMVC\src\main\webapp\WEB-INF\jsp" />
     </key>
   </component>
